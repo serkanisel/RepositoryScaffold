@@ -1,0 +1,14 @@
+F:\Projects\A.Blog\A.Blog.Data.Repository\obj\Debug\A.Blog.Data.Repository.csprojResolveAssemblyReference.cache
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.Repository.dll.config
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.Repository.dll
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.Repository.pdb
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\A.Blog.Entity.dll
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\EntityFramework.dll
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\A.Blog.Entity.pdb
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\EntityFramework.xml
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\A.Blog\A.Blog.Data.Repository\obj\Debug\A.Blog.Data.Repository.dll
+F:\Projects\A.Blog\A.Blog.Data.Repository\obj\Debug\A.Blog.Data.Repository.pdb
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.dll
+F:\Projects\A.Blog\A.Blog.Data.Repository\bin\Debug\A.Blog.Data.pdb

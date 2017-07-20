@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ecd480b392014ab0af9415e98d45862e" Name="Diagram1">
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Category" Width="1.5" PointX="3" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.CustomerDemographic" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Customer" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Employee" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Order_Detail" Width="1.5" PointX="7.5" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Order" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Product" Width="1.5" PointX="5.25" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Region" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Shipper" Width="1.5" PointX="3" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Supplier" Width="1.5" PointX="3" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.sysdiagram" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="A.Blog.Data.Repository.Territory" Width="1.5" PointX="8" PointY="9.5" IsExpanded="true" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Products_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Orders_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Employees_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Orders_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Order_Details_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Order_Details_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Orders_Shippers" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Products_Suppliers" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.FK_Territories_Region" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.CustomerCustomerDemo" ManuallyRouted="false" />
+        <AssociationConnector Association="A.Blog.Data.Repository.EmployeeTerritories" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
